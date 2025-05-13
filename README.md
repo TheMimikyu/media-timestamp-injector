@@ -72,8 +72,6 @@ media-timestamp-injector/
 ├── README.md
 ├── requirements.txt
 ├── set_metadata_from_filename.py
-└── samples/
-    └── example-filenames.txt  # Optional demo list
 ```
 
 ## 📄 License
